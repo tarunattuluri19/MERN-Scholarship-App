@@ -1,0 +1,130 @@
+[
+  {
+    "_id": 1,
+    "firstName" : "Tarun",
+    "secondName": "Attuluri",
+    "role": "student",
+    "email": "tarun@gmail.com",
+    "password": "tarun",
+    "class": "Class A",
+    "teacher": "Pavan",
+    "major": "Maths",
+    "org": "CTS"
+  },
+  {
+    "_id": 2,
+    "firstName": "Shaheed",
+    "secondName": "Palem",
+    "role": "student",
+    "email": "shaheed@gmail.com",
+    "password": "shaheed",
+    "teacher": "Pavan",
+    "major": "Maths",
+    "class": "Class A",
+    "org": "CTS"
+  },
+  {
+    "_id": 3,
+    "firstName": "Pavan",
+    "secondName": "Gaddam",
+    "role": "teacher",
+    "email": "pavan@gmail.com",
+    "password": "pavan",
+    "class": "Class A",
+    "subject": "Maths",
+    "org": "CTS",
+    "students": [1, 2]
+  },
+  {
+    "_id": 4,
+    "firstName": "Chinmay",
+    "secondName": "Choudhary",
+    "role": "teacher",
+    "email": "chinmay@gmail.com",
+    "password": "chinmay",
+    "class": "Class B",
+    "subject": "Physics",
+    "org": "CTS"
+  },
+  {
+    "_id": 13,
+    "firstName": "joe",
+    "secondName": "Choudhary",
+    "role": "teacher",
+    "email": "joe@gmail.com",
+    "password": "chinmay",
+    "class": "Class B",
+    "subject": "Physics",
+    "org": "OUP"
+  },
+  {
+    "_id": 5,
+    "firstName": "Admin_CTS",
+    "secondName": "",
+    "role": "admin",
+    "email": "admin_cts@gmail.com",
+    "password": "admin",
+    "org": "CTS"
+  },
+  {
+    "_id": 6,
+    "firstName": "SuperAdmin",
+    "secondName": "",
+    "role": "superadmin",
+    "email": "superadmin@gmail.com",
+    "password": "superadmin"
+  },
+  {
+    "_id": 7,
+    "firstName": "Admin_OUP",
+    "secondName": "",
+    "role": "admin",
+    "email": "admin_oup@gmail.com",
+    "password": "admin",
+    "org": "OUP"
+  },
+  {
+    "_id": 9,
+    "firstName": "Admin_Oxford",
+    "secondName": "",
+    "role": "admin",
+    "email": "admin_oxford@gmail.com",
+    "password": "admin",
+    "org": "Oxford"
+  },
+  {
+    "_id": 10,
+    "firstName": "Rakesh",
+    "secondName": "babu",
+    "role": "student",
+    "email": "rakesh@gmail.com",
+    "password": "rakesh",
+    "class": "Class A",
+    "teacher": "Pavan Kalyan",
+    "major": "Maths",
+    "org": "OUP"
+  },
+  {
+    "_id": 11,
+    "firstName": "Vinay",
+    "secondName": "Kumar",
+    "role": "student",
+    "email": "vinay@gmail.com",
+    "password": "tarun",
+    "class": "Class B",
+    "teacher": "Chinmay",
+    "major": "Physics",
+    "org": "OUP"
+  },
+  {
+    "_id": 12,
+    "firstName": "Prabhas",
+    "secondName": "Hero",
+    "role": "teacher",
+    "email": "prabhas@gmail.com",
+    "password": "prabhas",
+    "class": "Class c",
+    "subject": "Biology",
+    "org": "oxford"
+  }
+]
